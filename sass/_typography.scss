@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5 {
 .site-title {
   font-family: "lato", sans-serif;
   font-weight: 100;
-  font-size: 5em;
+  font-size: 7em;
   line-height: 1;
   color: grey;
 }
@@ -45,27 +45,28 @@ h1, h2, h3, h4, h5 {
 
 .feature-type {
   font-family: "merriweather", sans-serif;
-  font-weight: regular; 
+  font-weight: 400; 
   font-size: 0.8125em; /* 13px/16px */
   line-height: 1;
   color: #cbb8a0;
   display: block;
+  margin: 0em;
 }
 
 .feature-title {
   font-family: "oswald", serif;
   font-weight: 400; 
-  font-size: 4.6875em; /* 75px/16px */
+  font-size: 1.5em; /* 75px/16px */
   line-height: 1;
   color: #fccd83;
-  margin-bottom: 0em;
+  margin: 0 0 0 0;
 
 }
 
 .feature-text {
   font-family: "merriweather", serif;
   font-weight: 300; 
-  font-size: 1.5625em; /* 25px/16px */
+  font-size: 1em; /* 25px/16px */
   line-height: 1.4;
   color: #000;
   margin-top: 1em;
@@ -79,14 +80,14 @@ h1, h2, h3, h4, h5 {
   font-family: "lora", sans-serif;
   font-weight: bold;
   font-style: italic; 
-  font-size: 2.25em; /* 36px/16px */
+  font-size: 1.5em; /* 36px/16px */
   line-height: 1;
 }
 
 .box-model-text {
   font-family: "lato", serif;
   font-weight: 400; 
-  font-size: 1.1875em; /* 19px/16px */
+  font-size: 1.2em; /* 19px/16px */
   line-height: 1.4;
 }
 
