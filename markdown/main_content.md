@@ -1,10 +1,11 @@
-<h2 class="feature-title"><span class="feature-type">Feature</span> Positioning Relatives</h2>
+<div class="feature-type">Feature</div>
+<h2 class="feature-title">Positioning Relatives</h2>
 
 <p class="feature-text">In 1958, English pictorial photographer Henry Peach Robinson created the world's first photomontage by combining five different negatives to make one complete print of a young girl on her deathbed. “Fading Away” — Robinson's first and most famous composite photo — depicts a young girl dying of consumption and was controversial when it was exhibited, with many believing it was not a suitable subject for photography.</p>
 
 <h3 class="Box-model-title">Box Model</h3>
 
-The Barbie doll was invented in 1959 by Ruth Handler (co-founder of Mattel), whose own daughter was called Barbara. Barbie was introduced to the world at the American Toy Fair in New York City. Barbie's job was teenage fashion doll. The full name of the first doll was Barbie Millicent Roberts, from Willows, Wisconsin.
+<p class="Box-model-text">The Barbie doll was invented in 1959 by Ruth Handler (co-founder of Mattel), whose own daughter was called Barbara. Barbie was introduced to the world at the American Toy Fair in New York City. Barbie's job was teenage fashion doll. The full name of the first doll was Barbie Millicent Roberts, from Willows, Wisconsin.</p>
 
 <h2 class="Box-model-title">List Style: Bullets.</h2>
 

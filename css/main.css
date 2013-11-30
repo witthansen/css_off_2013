@@ -1781,6 +1781,7 @@ h5 {
   font-size: 0.8125em;
   line-height: 1;
   color: #cbb8a0;
+  display: block;
 }
 
 .feature-title {
@@ -1789,6 +1790,7 @@ h5 {
   font-size: 4.6875em;
   line-height: 1;
   color: #fccd83;
+  margin-bottom: 0em;
 }
 
 .feature-text {
@@ -1796,7 +1798,8 @@ h5 {
   font-weight: 300;
   font-size: 1.5625em;
   line-height: 1.4;
-  color: #ff0000;
+  color: #000;
+  margin-top: 1em;
 }
 
 .box-model-title {
