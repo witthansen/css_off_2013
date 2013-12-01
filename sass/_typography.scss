@@ -26,9 +26,9 @@ h1, h2, h3, h4, h5 {
 .site-title {
   font-family: "lato", sans-serif;
   font-weight: 100;
-  font-size: 7em;
+  font-size: 5em;
   line-height: 1;
-  color: grey;
+  color: white;
 }
 
 .issue-info {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5 {
   font-style: italic; 
   font-size: 0.75em; /* 12px/16px */
   line-height: 1;
-  color: #afadb8;
+  color: white;
 }
 
 /* Feature article
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5 {
 .feature-type {
   font-family: "merriweather", sans-serif;
   font-weight: 400; 
-  font-size: 0.8125em; /* 13px/16px */
+  font-size: 1em; /* 13px/16px */
   line-height: 1;
   color: #cbb8a0;
   display: block;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5 {
 .feature-title {
   font-family: "oswald", serif;
   font-weight: 400; 
-  font-size: 1.5em; /* 75px/16px */
+  font-size: 2em; /* 75px/16px */
   line-height: 1;
   color: #fccd83;
   margin: 0 0 0 0;
@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 .feature-text {
   font-family: "merriweather", serif;
   font-weight: 300; 
-  font-size: 1em; /* 25px/16px */
+  font-size: 1.2em; /* 25px/16px */
   line-height: 1.4;
   color: #000;
   margin-top: 1em;
