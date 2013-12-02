@@ -1,0 +1,6 @@
+.main-header {
+  padding: 0.5em;
+  margin: 0 0 10px 0;
+  background-color: #cdc9dd;
+}
+
