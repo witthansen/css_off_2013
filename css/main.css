@@ -1764,6 +1764,7 @@ h5 {
   font-size: 5em;
   line-height: 1;
   color: white;
+  text-align: center;
 }
 
 .issue-info {
@@ -1773,6 +1774,7 @@ h5 {
   font-size: 0.75em;
   line-height: 1;
   color: white;
+  text-align: center;
 }
 
 .feature-type {
