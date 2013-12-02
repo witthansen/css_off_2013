@@ -1778,7 +1778,7 @@ h5 {
 .feature-type {
   font-family: "merriweather", sans-serif;
   font-weight: 400;
-  font-size: 1em;
+  font-size: 1.2em;
   line-height: 1;
   color: #cbb8a0;
   display: block;
@@ -1797,7 +1797,7 @@ h5 {
 .feature-text {
   font-family: "merriweather", serif;
   font-weight: 300;
-  font-size: 1.2em;
+  font-size: 1.1em;
   line-height: 1.4;
   color: #000;
   margin-top: 1em;
@@ -1814,7 +1814,7 @@ h5 {
 .box-model-text {
   font-family: "lato", serif;
   font-weight: 400;
-  font-size: 1.2em;
+  font-size: 1.15em;
   line-height: 1.4;
 }
 

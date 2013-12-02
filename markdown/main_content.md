@@ -6,6 +6,8 @@
 
 <h3 class="box-model-title">Box Model</h3>
 
+<img src="" id="barbiebox" alt="picture" title="Barbie - a Box Model" />
+
 <p class="box-model-text">The Barbie doll was invented in 1959 by Ruth Handler (co-founder of Mattel), whose own daughter was called Barbara. Barbie was introduced to the world at the American Toy Fair in New York City. Barbie's job was teenage fashion doll. The full name of the first doll was Barbie Millicent Roberts, from Willows, Wisconsin.</p>
 
 <h2 class="list-style-title">List Style: Bullets.</h2>
